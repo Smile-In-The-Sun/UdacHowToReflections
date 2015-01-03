@@ -6,3 +6,11 @@ git init
 How is the staging area different from the working directory and the repository? What value do you think it offers? 
 
 Staging area includes files added from working directory. 
+
+Repository contains several commits. Each commit contains several files.
+
+Staging area is a copy of the most recent commit, until user adds changes to it. 
+
+The working directory also has same files. 
+
+Files in working directories and staging area are not commits so don't have ID. They can be compared use git diff with no arguments, which shows any changes that haven't been added to the stages. 
