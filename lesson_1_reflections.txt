@@ -1,0 +1,2 @@
+% How to set path 
+set PATH=%PATH%;C:\Program Files)x86)\Notepad++;
