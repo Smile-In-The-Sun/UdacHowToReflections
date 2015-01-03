@@ -18,3 +18,7 @@ Add the changes to staging area and double check the changes then write commit.
 Experimental, Italian version; easy-mode, hard-mode; 
 Context switching
 development branch; experimental branch; unique feature branch
+
+4. How do the diagrams help you visualize the branch structure?
+git log --graph --oneline master coins easy-mode
+Diagrams make it clear about the trace of each branch.
