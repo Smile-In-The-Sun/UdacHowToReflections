@@ -13,3 +13,8 @@ Files in working directories and staging area are not commits so don't have ID. 
 
 2.How can you use the staging area to make sure you have one commit per logical change?
 Add the changes to staging area and double check the changes then write commit. 
+
+3. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Experimental, Italian version; easy-mode, hard-mode; 
+Context switching
+development branch; experimental branch; unique feature branch
