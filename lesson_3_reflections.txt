@@ -1,0 +1,5 @@
+how to upload a local copy to the GitHub to share code with others. 
+create an empty repository on the github, remote
+git remote add origin link (link of the empty repository)
+git remote -v
+git push origin master
