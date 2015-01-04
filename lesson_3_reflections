@@ -1,0 +1,5 @@
+lesson_3_reflections
+how to push local repository to the github and share with others
+First create an empty repository on the github, and use command git remote add origin (if only one,
+it is a tradition to name it origin) link from github. The we can double check using git remote -v
+Then use git push origin master to upload the local file to the github.
